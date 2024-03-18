@@ -1,0 +1,71 @@
+﻿index,attribute,value,definition
+0,PLZ8_ANTG3,1,Number of 6-10 family houses in the PLZ8 region - lower share of 60 family homes
+0,PLZ8_ANTG3,2,Number of 6-10 family houses in the PLZ8 region - average share of 610 family homes
+0,PLZ8_ANTG3,3,Number of 6-10 family houses in the PLZ8 region - high share of 610 family homes
+1,CAMEO_INTL_2015,11,Wealth / Life Stage Typology - Wealthy Households - Pre-Family Couples & Singles
+1,CAMEO_INTL_2015,12,Wealth / Life Stage Typology - Wealthy Households - Young Couples With Children
+1,CAMEO_INTL_2015,13,Wealth / Life Stage Typology - Wealthy Households - Families With School Age Children
+1,CAMEO_INTL_2015,14,Wealth / Life Stage Typology - Wealthy Households - Older Families & Mature Couples
+1,CAMEO_INTL_2015,15,Wealth / Life Stage Typology - Wealthy Households - Elders In Retirement
+1,CAMEO_INTL_2015,21,Wealth / Life Stage Typology - Prosperous Households - Pre-Family Couples & Singles
+1,CAMEO_INTL_2015,22,Wealth / Life Stage Typology - Prosperous Households - Young Couples With Children
+1,CAMEO_INTL_2015,23,Wealth / Life Stage Typology - Prosperous Households - Families With School Age Children
+1,CAMEO_INTL_2015,24,Wealth / Life Stage Typology - Prosperous Households - Older Families & Mature Couples
+1,CAMEO_INTL_2015,25,Wealth / Life Stage Typology - Prosperous Households - Elders In Retirement
+1,CAMEO_INTL_2015,31,Wealth / Life Stage Typology - Comfortable Households - Pre-Family Couples & Singles
+1,CAMEO_INTL_2015,32,Wealth / Life Stage Typology - Comfortable Households - Young Couples With Children
+1,CAMEO_INTL_2015,33,Wealth / Life Stage Typology - Comfortable Households - Families With School Age Children
+1,CAMEO_INTL_2015,34,Wealth / Life Stage Typology - Comfortable Households - Older Families & Mature Couples
+1,CAMEO_INTL_2015,35,Wealth / Life Stage Typology - Comfortable Households - Elders In Retirement
+1,CAMEO_INTL_2015,41,Wealth / Life Stage Typology - Less Affluent Households - Pre-Family Couples & Singles
+1,CAMEO_INTL_2015,42,Wealth / Life Stage Typology - Less Affluent Households - Young Couples With Children
+1,CAMEO_INTL_2015,43,Wealth / Life Stage Typology - Less Affluent Households - Families With School Age Children
+1,CAMEO_INTL_2015,44,Wealth / Life Stage Typology - Less Affluent Households - Older Families & Mature Couples
+1,CAMEO_INTL_2015,45,Wealth / Life Stage Typology - Less Affluent Households - Elders In Retirement
+1,CAMEO_INTL_2015,51,Wealth / Life Stage Typology - Poorer Households - Pre-Family Couples & Singles
+1,CAMEO_INTL_2015,52,Wealth / Life Stage Typology - Poorer Households - Young Couples With Children
+1,CAMEO_INTL_2015,53,Wealth / Life Stage Typology - Poorer Households - Families With School Age Children
+1,CAMEO_INTL_2015,54,Wealth / Life Stage Typology - Poorer Households - Older Families & Mature Couples
+1,CAMEO_INTL_2015,55,Wealth / Life Stage Typology - Poorer Households - Elders In Retirement
+2,LP_STATUS_GROB,1,"Social status, rough scale - low-income earners (maps to 1-2 in fine scale)"
+2,LP_STATUS_GROB,2,"Social status, rough scale - average earners (maps to 3-5 in fine scale)"
+2,LP_STATUS_GROB,3,"Social status, rough scale - independents (maps to 6-7 in fine scale)"
+2,LP_STATUS_GROB,4,"Social status, rough scale - houseowners (maps to 8-9 in fine scale)"
+2,LP_STATUS_GROB,5,"Social status, rough scale - top earners (maps to 10 in fine scale)"
+3,EWDICHTE,1,Density of households per square kilometer - less than 34 households per km^2
+3,EWDICHTE,2,Density of households per square kilometer - 34 - 89 households per km^2
+3,EWDICHTE,3,Density of households per square kilometer - 90 - 149 households per km^2
+3,EWDICHTE,4,Density of households per square kilometer - 150 - 319 households per km^2
+3,EWDICHTE,5,Density of households per square kilometer - 320 - 999 households per km^2
+3,EWDICHTE,6,Density of households per square kilometer - more than 999 households per km^2
+4,PLZ8_BAUMAX,1,Most common building type within the PLZ8 region - mainly 1-2 family homes
+4,PLZ8_BAUMAX,2,Most common building type within the PLZ8 region - mainly 3-5 family homes
+4,PLZ8_BAUMAX,3,Most common building type within the PLZ8 region - mainly 6-10 family homes
+4,PLZ8_BAUMAX,4,Most common building type within the PLZ8 region - mainly 10+ family homes
+4,PLZ8_BAUMAX,5,Most common building type within the PLZ8 region - mainly business buildings
+5,KBA05_GBZ,1,Number of buildings in the microcell - 1-2 buildings
+5,KBA05_GBZ,2,Number of buildings in the microcell - 3-4 buildings
+5,KBA05_GBZ,3,Number of buildings in the microcell - 5-16 buildings
+5,KBA05_GBZ,4,Number of buildings in the microcell - 17-22 buildings
+5,KBA05_GBZ,5,Number of buildings in the microcell - >=23 buildings
+6,KBA05_ANTG1,0,Number of 1-2 family houses in the microcell - no 1-2 family homes
+6,KBA05_ANTG1,1,Number of 1-2 family houses in the microcell - lower share of 1-2 family homes
+6,KBA05_ANTG1,2,Number of 1-2 family houses in the microcell - average share of 1-2 family homes
+6,KBA05_ANTG1,3,Number of 1-2 family houses in the microcell - high share of 1-2 family homes
+6,KBA05_ANTG1,4,Number of 1-2 family houses in the microcell - very high share of 1-2 family homes
+7,PLZ8_ANTG1,0,Number of 1-2 family houses in the PLZ8 region - no 1-2 family homes
+7,PLZ8_ANTG1,1,Number of 1-2 family houses in the PLZ8 region - lower share of 1-2 family homes
+7,PLZ8_ANTG1,2,Number of 1-2 family houses in the PLZ8 region - average share of 1-2 family homes
+7,PLZ8_ANTG1,3,Number of 1-2 family houses in the PLZ8 region - high share of 1-2 family homes
+7,PLZ8_ANTG1,4,Number of 1-2 family houses in the PLZ8 region - very high share of 1-2 family homes
+8,MOBI_REGIO,1,Movement patterns - very high movement
+8,MOBI_REGIO,2,Movement patterns - high movement
+8,MOBI_REGIO,3,Movement patterns - middle movement
+8,MOBI_REGIO,4,Movement patterns - low movement
+8,MOBI_REGIO,5,Movement patterns - very low movement
+8,MOBI_REGIO,6,Movement patterns - none
+9,FINANZ_MINIMALIST,1,Financial typology - low financial interest - very high
+9,FINANZ_MINIMALIST,2,Financial typology - low financial interest - high
+9,FINANZ_MINIMALIST,3,Financial typology - low financial interest - average
+9,FINANZ_MINIMALIST,4,Financial typology - low financial interest - low
+9,FINANZ_MINIMALIST,5,Financial typology - low financial interest - very low
